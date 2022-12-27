@@ -47,7 +47,7 @@ function productMinToMax(min, max) {
         }
         return result
     } 
-
+function hey (){console.log ("hey")}
 function multiplyBy10NTimes(num, n) {
     result=num;
      for (var i=n;i>0;i--){
